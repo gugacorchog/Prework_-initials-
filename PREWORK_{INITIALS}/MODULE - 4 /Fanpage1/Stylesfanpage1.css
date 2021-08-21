@@ -1,0 +1,55 @@
+h1
+{
+    font-family:fantasy;
+    border-style: double;
+    border-color: black;
+    text-align:initial
+    border-width: 2px;
+    background-color: rgba(107, 104, 104, 0.596);
+    color: black;
+}
+
+.Photo1
+{
+    width: 450px;
+    height: 400px;
+    border: solid;
+    border-width: 4px;
+    border-color: rgba(107, 104, 104, 0.596);
+}
+
+h2
+{
+border-radius: 25px;
+border-color:black;
+border-style:double;
+border-width: 2px;
+background-color: rgba(107, 104, 104, 0.596);
+}
+
+h3
+{
+    Border-color: black;
+    border-style:double;
+    border-width: 2px;
+    background-color: rgba(41, 40, 40, 0.897);
+    color:rgb(221, 215, 215);
+    font-family: monospace;
+}
+
+.facebook
+{
+    border-color:black;
+    border-style:double;
+    border-width: 2px;
+    background-color: rgba(107, 104, 104, 0.596);
+
+}
+
+.song
+{
+    border-color:black;
+    border-style:double;
+    border-width: 2px;
+    background-color: rgba(107, 104, 104, 0.596);
+}

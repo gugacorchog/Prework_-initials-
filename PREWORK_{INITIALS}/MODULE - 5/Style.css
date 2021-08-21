@@ -1,0 +1,89 @@
+h1
+{
+    text-align: center;
+}
+
+.this-is-red
+{ 
+    color:red;
+    font-size: 18px;
+}
+
+
+.this-is-blue
+{ 
+    color:blue;
+font-size: 18px;
+}
+
+
+.this-is-green 
+{
+    color:green;
+font-size: 18px;
+}
+
+
+.big
+{ 
+    color:black;
+    font-size: 35px;
+}
+
+.tiny
+{ 
+    color:black;
+    font-size: 12px;
+}
+
+.center
+{ 
+    color:black;
+    text-align: center;
+}
+
+.bold
+{ 
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+}
+
+.creative
+{ 
+    color:black;
+    font-family: monospace;
+}
+
+.bigcolor
+{
+    color:orange;
+    font-size: 25px;
+}
+
+p
+{
+   color:green
+}
+
+
+.just
+{
+    color:black;
+}
+
+.CSS
+{
+    background-color: rgb(0, 153, 255);
+    width: 25;
+    border: 10px;
+    padding: 20px;
+    margin: 01px;
+    position: absolute;
+    top: 0.5;
+    right: 926px;
+    left: 20;
+    border: solid;
+    border-width: 10px;
+    border-color: orange;
+}
